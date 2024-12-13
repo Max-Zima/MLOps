@@ -1,0 +1,4 @@
+input_dim: 3
+hidden_dim: 64
+output_dim: 3
+learning_rate: 0.001

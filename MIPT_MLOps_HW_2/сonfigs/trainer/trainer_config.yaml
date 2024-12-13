@@ -1,0 +1,4 @@
+max_epochs: 10
+gpus: 0
+precision: 32
+seed: 42
