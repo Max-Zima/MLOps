@@ -34,7 +34,7 @@ pytest tests/
 ## DVC
 Настройте удалённое хранилище:
 ```bash
-dvc remote add -d storage s3://your-bucket/path
+dvc remote add -d storage s3://...
 ```
 
 Синхронизация:
